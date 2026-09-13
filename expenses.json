@@ -1,0 +1,79 @@
+{
+  "E001": {
+    "name": "Grocery Shopping",
+    "amount": 2500,
+    "category": "Food",
+    "date": "2026-09-01",
+    "description": "Weekly groceries and household items"
+  },
+  "E002": {
+    "name": "Bus Fare",
+    "amount": 80,
+    "category": "Transport",
+    "date": "2026-09-02",
+    "description": "Daily transportation expense"
+  },
+  "E003": {
+    "name": "Electricity Bill",
+    "amount": 1850,
+    "category": "Bills",
+    "date": "2026-09-03",
+    "description": "Monthly electricity bill payment"
+  },
+  "E004": {
+    "name": "Coffee",
+    "amount": 180,
+    "category": "Food",
+    "date": "2026-09-04",
+    "description": "Coffee at a local cafe"
+  },
+  "E005": {
+    "name": "Internet Bill",
+    "amount": 1000,
+    "category": "Bills",
+    "date": "2026-09-05",
+    "description": "Monthly internet subscription"
+  },
+  "E006": {
+    "name": "T-Shirt",
+    "amount": 750,
+    "category": "Shopping",
+    "date": "2026-09-06",
+    "description": "Purchased a casual t-shirt"
+  },
+  "E007": {
+    "name": "Movie Ticket",
+    "amount": 500,
+    "category": "Entertainment",
+    "date": "2026-09-07",
+    "description": "Weekend movie with friends"
+  },
+  "E008": {
+    "name": "Mobile Recharge",
+    "amount": 99,
+    "category": "Utilities",
+    "date": "2026-09-08",
+    "description": "Monthly mobile phone recharge"
+  },
+  "E009": {
+    "name": "Medicine",
+    "amount": 650,
+    "category": "Health",
+    "date": "2026-09-09",
+    "description": "Purchased basic medicines"
+  },
+  "E010": {
+    "name": "Restaurant Dinner",
+    "amount": 1200,
+    "category": "Food",
+    "date": "2026-09-10",
+    "description": "Dinner with friends"
+  },
+  "E011": {
+    "name": "Dinner",
+    "amount": 1050,
+    "category": "Food",
+    "date": "2026-09-01",
+    "description": "Dinner at restaurent"
+  }
+}
